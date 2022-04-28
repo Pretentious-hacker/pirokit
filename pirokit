@@ -66,3 +66,4 @@ deluge-console add "$magnet"
 
 # Simple notification
 notify-send "⬇️  Start downloading File 📁"
+#abhist says that trying out github is fun and i am trying to learn it 
